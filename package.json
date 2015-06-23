@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Automattic/socket.io"
+    "url": "git://github.com/swhe/socket.io"
   },
   "scripts": {
     "test": "mocha --reporter dot --slow 200ms --bail"
